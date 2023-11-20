@@ -117,7 +117,7 @@ The coupled tank system is an excellent type of plant to apply and analyze contr
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is a control design project, where the mathematical model of coupled tanks are programed in Simulink file and the Controller in .m files. The details of the methodology and programming of the codes are described in the [Article](https://github.com/Jesse-Alves/Analysis-and-Control-Design-for-Coupled-Tanks/blob/main/Article/Article%20-%20Analysis_and_Control_Design_for_Coupled_Tanks.pdf).
+This is a control design project, where the mathematical model of coupled tanks are programed in Simulink file and the Controller in .m files. The details of the methodology and programming of the codes are described in the [Article](https://github.com/Jesse-Alves/Analysis-and-Control-Design-for-Coupled-Tanks/blob/main/Paper/Article%20-%20Analysis_and_Control_Design_for_Coupled_Tanks.pdf).
 
 ### Prerequisites
 
@@ -157,7 +157,7 @@ _Below is an example of how you can instruct your audience on installing and set
 
 Once all the files are inside of the same folder, run the code [ModeloLinear.m](https://github.com/Jesse-Alves/Analysis-and-Control-Design-for-Coupled-Tanks/blob/main/ModeloLinear.m) as the mais code. The other files are auxiliar functions. The Coupled Tanks Model can be found in the [simulink file](https://github.com/Jesse-Alves/Analysis-and-Control-Design-for-Coupled-Tanks/blob/main/TanquesAcoplados.slx).
 
-More details about the project can be found in the [Article](https://github.com/Jesse-Alves/Analysis-and-Control-Design-for-Coupled-Tanks/blob/main/Article/Article%20-%20Analysis_and_Control_Design_for_Coupled_Tanks.pdf) attached.
+More details about the project can be found in the [report](https://github.com/Jesse-Alves/Analysis-and-Control-Design-for-Coupled-Tanks/blob/main/Paper/Article%20-%20Analysis_and_Control_Design_for_Coupled_Tanks.pdf) attached.
 
 
 
