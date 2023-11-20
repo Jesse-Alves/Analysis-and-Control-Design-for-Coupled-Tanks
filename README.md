@@ -74,9 +74,10 @@
 
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/screenshot.JPG" alt="Logo" width="700" height="350">
+    <img src="images/screenshot.JPG" alt="Logo" width="300" height="600">
   </a
     <br />
+  Hello to asdaasasdasdas
 </div>
 
 
