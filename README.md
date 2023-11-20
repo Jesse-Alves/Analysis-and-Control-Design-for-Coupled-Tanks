@@ -28,7 +28,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="123">
   </a>
 
-  <h1 align="center">Robust Trajectory Control of an Unmanned Aerial Vehicle</h1>
+  <h1 align="center">Analysis and Control Design for Coupled Tanks</h1>
 
   <p align="center">
     <a href="https://github.com/Jesse-Alves?tab=repositories"><strong>View all repositories  »</strong></a>
@@ -53,7 +53,7 @@
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
+<!--         <li><a href="#installation">Installation</a></li> -->
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
@@ -61,7 +61,7 @@
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li> -->
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+<!--     <li><a href="#acknowledgments">Acknowledgments</a></li> -->
   </ol>
 </details>
 
@@ -74,7 +74,7 @@
 
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/screenshot.jpg" alt="Logo" width="700" height="350">
+    <img src="images/screenshot.JPG" alt="Logo" width="700" height="350">
   </a
     <br />
 </div>
@@ -229,9 +229,9 @@ Use this space to list resources you find helpful and would like to give credit 
 <!-- MARKDOWN LINKS & IMAGES -->
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/jessealves11
-[product-screenshot]: images/screenshot.JPG
 
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links 
+<!--[product-screenshot]: images/screenshot.JPG
+ https://www.markdownguide.org/basic-syntax/#reference-style-links 
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
 [contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
