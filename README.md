@@ -75,8 +75,8 @@ The coupled tank system is an excellent type of plant to apply and analyze contr
 
 
 <p float="left">
-  <img src="img1.JPG" width="200" />
-  <img src="img2.jpg" width="200" />
+  <img src="images/img1.JPG" width="200" />
+  <img src="images/img2.jpg" width="200" />
 </p>
 
 
