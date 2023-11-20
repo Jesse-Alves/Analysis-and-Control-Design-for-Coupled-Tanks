@@ -117,11 +117,11 @@ The coupled tank system is an excellent type of plant to apply and analyze contr
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is a control design project, where the mathematical model of the UAV is described in the thesis work, as well as the details of the methodology and programming of the codes.
+This is a control design project, where the mathematical model of coupled tanks are programed in Simulink file and the Controller in .m files. The details of the methodology and programming of the codes are described in the [Article](https://github.com/Jesse-Alves/Analysis-and-Control-Design-for-Coupled-Tanks/blob/main/Article/Article%20-%20Analysis_and_Control_Design_for_Coupled_Tanks.pdf).
 
 ### Prerequisites
 
-All this project was built using Matlab and Simulink tool. To test the controller project into the drone non-linear system, it is important to have all those file in the same folder.
+All this project was built using Matlab and Simulink tool. To test the controller project, it is important to have all those file in the same folder.
 <!--This is an example of how to list things you need to use the software and how to install them.
 * npm
   ```sh
@@ -155,9 +155,9 @@ _Below is an example of how you can instruct your audience on installing and set
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Once all the files are inside of the same folder, run the code [Controle_LQR_ARDrone.m](https://github.com/Jesse-Alves/Robust-LQR-trajectory-control-for-AR.Drone-2.0/blob/main/Controle_LQR_ARDrone.m) to test the LQR controller. And run the code to test [Controle_LQR_Robusto_Drone.m](https://github.com/Jesse-Alves/Robust-LQR-trajectory-control-for-AR.Drone-2.0/blob/main/Controle_LQR_Robusto_Drone.m) to test the LQR Robust controller.
+Once all the files are inside of the same folder, run the code [ModeloLinear.m](https://github.com/Jesse-Alves/Analysis-and-Control-Design-for-Coupled-Tanks/blob/main/ModeloLinear.m) as the mais code. The other files are auxiliar functions. The Coupled Tanks Model can be found in the [simulink file](https://github.com/Jesse-Alves/Analysis-and-Control-Design-for-Coupled-Tanks/blob/main/TanquesAcoplados.slx).
 
-The drone trajectory can be selected by changing the variable "tipo" at the beginning of the code, and the drone non-linear model was programed in the simulink file. There are other auxiliar codes and functions to evaluate the controller robustness, and more details of the project can be found in the [Thesis Paper](https://github.com/Jesse-Alves/Robust-LQR-trajectory-control-for-AR.Drone-2.0/blob/main/Thesis_Paper/Robust%20Trajectory%20Control%20of%20an%20Unmanned%20Aerial%20Vehicle.pdf) attached.
+More details about the project can be found in the [Article](https://github.com/Jesse-Alves/Analysis-and-Control-Design-for-Coupled-Tanks/blob/main/Article/Article%20-%20Analysis_and_Control_Design_for_Coupled_Tanks.pdf) attached.
 
 
 
