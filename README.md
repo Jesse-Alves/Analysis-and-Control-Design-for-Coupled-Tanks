@@ -80,6 +80,7 @@ The coupled tank system is an excellent type of plant to apply and analyze contr
 </p>
 
 
+<!--
 <div align="center">
   <a href="https://github.com/Jesse-Alves?tab=repositories">
     <img src="images/img1.JPG" alt="Logo" width="200" height="400">
@@ -89,9 +90,7 @@ The coupled tank system is an excellent type of plant to apply and analyze contr
   </a
     <br />
 </div>
-
-
-
+-->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
