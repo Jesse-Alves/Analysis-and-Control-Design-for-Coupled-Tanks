@@ -71,13 +71,14 @@
 ## About The Project
 
 <!--[![Product Name Screen Shot][product-screenshot]](https://example.com) -->
+The coupled tank system is an excellent type of plant to apply and analyze control techniques, including for didactic purposes. Therefore, the present work will present two control techniques for the system: one using differential equations that describe the model and the other using a plant identification method through experimentally obtained data.
 
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/Jesse-Alves?tab=repositories">
+    <img src="images/screenshot.JPG" alt="Logo" width="200" height="400">
     <img src="images/screenshot.JPG" alt="Logo" width="200" height="400">
   </a
     <br />
-  The coupled tank system is an excellent type of plant to apply and analyze control techniques, including for didactic purposes. Therefore, the present work will present two control techniques for the system: one using differential equations that describe the model and the other using a plant identification method through experimentally obtained data.
 </div>
 
 
